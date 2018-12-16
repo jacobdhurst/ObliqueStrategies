@@ -3,7 +3,8 @@ Oblique Strategies (subtitled Over One Hundred Worthwhile Dilemmas) is a card-ba
 
 This python script simulates the card-based method.
 
-## Usage: python oblique.py <-h (optional: prints description)> <number of cards to draw (optional: default = 1)>
+## Usage: 
+python oblique.py <-h(optional: prints description)> <number of cards to draw(optional: default=1)>
 
 ## Description:
 These cards arise from operations involving the underlying principles of processes.
